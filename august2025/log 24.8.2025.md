@@ -4,3 +4,5 @@
 4. Updated README.md through VSCode
 5. Committed and pushed README.md & .gitignore
 6. Created new folder & my first log!
+7. Committed and finished.
+8. Created, edited and committed a profile README.md with a banner image.

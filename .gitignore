@@ -1,2 +1,10 @@
+## Visual Studio user settings
 .vs/
 *.sqlite
+*.vsqidx
+## Visual Studio Code user settings
+.vscode/
+## MacOS and Windows junk
+.DS_Store
+Thumbs.db
+Desktop.ini

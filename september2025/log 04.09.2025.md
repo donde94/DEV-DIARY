@@ -1,5 +1,5 @@
 - Started studying relational databases  
-- Studied SQL from https://tikape.mooc.fi/kevat-2025  
+- Studied SQL from https://tikape.mooc.fi/kevat-2025 & https://sqltrainer.withmooc.fi/#1  
 - Learned and worked with MySQL Workbench.  
 - Created a database design for Jamk University of Applied Sciences school assignment.  
 - Created Entity-Relationship model in MySQL from the database design.  
